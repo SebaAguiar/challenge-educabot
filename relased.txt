@@ -1,0 +1,1 @@
+se cambio en la interfaz de book.ts el id a number que es lo que ofrecia el mock
